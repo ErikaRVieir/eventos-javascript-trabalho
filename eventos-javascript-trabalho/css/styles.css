@@ -1,0 +1,11 @@
+#meuBotao {
+    padding: 10px 20px;
+    background-color:blue ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#meuBotao:hover {
+    background-color:rgb(36, 212, 20); /* Cor ao passar o mouse */
+}
